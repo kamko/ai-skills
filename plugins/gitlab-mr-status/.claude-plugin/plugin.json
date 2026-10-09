@@ -1,7 +1,7 @@
 {
   "name": "gitlab-mr-status",
   "description": "Report the current state of many GitLab merge requests from a list of MR links: pipeline, approvals, mergeability, unresolved review threads, on any GitLab instance",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "kamko",
     "url": "https://github.com/kamko"
@@ -12,6 +12,9 @@
   "keywords": [
     "gitlab",
     "merge-request",
+    "mr",
+    "pr",
+    "pull-request",
     "status",
     "review",
     "glab",

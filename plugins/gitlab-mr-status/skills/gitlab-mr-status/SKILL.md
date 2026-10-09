@@ -1,6 +1,6 @@
 ---
 name: gitlab-mr-status
-description: Use when given one or more GitLab merge request links (or a ticket that lists them) and asked to go through them, check them, or report their current state, status, progress or "where are we", or narrower questions such as is it merged yet, what is blocking it, which ones are still open or draft, who approved, is the pipeline green, are there open review comments. Covers lists of MRs across many repos and batches of AI-agent MRs, on any GitLab instance. Read-only reporting; not for reviewing, merging or fixing an MR.
+description: Use when given one or more GitLab merge request links (MR, MRs, PR, PRs, merge request, pull request, or a ticket that lists them) and asked to go through them, check them, or report their current state, status, progress or "where are we", or narrower questions such as is it merged yet, what is blocking it, which ones are still open or draft, who approved, is the pipeline green, are there open review comments. Covers lists of MRs across many repos and batches of AI-agent MRs, on any GitLab instance. Read-only reporting; not for reviewing, merging or fixing an MR.
 ---
 
 # GitLab MR Status

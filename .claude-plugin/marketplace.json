@@ -16,6 +16,16 @@
         "name": "kamko",
         "url": "https://github.com/kamko"
       }
+    },
+    {
+      "name": "gitlab-mr-status",
+      "description": "Report the current state of many GitLab merge requests from a list of MR links: pipeline, approvals, mergeability, unresolved review threads, on any GitLab instance",
+      "source": "./plugins/gitlab-mr-status",
+      "category": "development",
+      "author": {
+        "name": "kamko",
+        "url": "https://github.com/kamko"
+      }
     }
   ]
 }

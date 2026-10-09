@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-skills",
+  "description": "kamko's personal Claude Code plugins and skills",
+  "owner": {
+    "name": "kamko",
+    "url": "https://github.com/kamko"
+  },
+  "plugins": [
+    {
+      "name": "gitlab-mass-merge",
+      "description": "Mass approve, rebase and merge many GitLab merge requests from a list of MR links, on any GitLab instance",
+      "source": "./plugins/gitlab-mass-merge",
+      "category": "development",
+      "author": {
+        "name": "kamko",
+        "url": "https://github.com/kamko"
+      }
+    }
+  ]
+}
